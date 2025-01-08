@@ -3,10 +3,10 @@
 ![An artistic representation of Guilda’s collaborative and creative environment, connecting communities worldwide.](https://i.imgur.com/ZxUlaJh.png)
 
 We are building **Guilda**, the next-generation bot for **Discord**. Our journey began in **January 2025**, and since then, we’ve been on a roll:  
-- **873 commits** made  
+- **3 million** commands executed  
 - **142 issues** opened  
 - **212 pull requests** submitted  
-- Contributions from **5 countries** 🌍  
+- Contributions from **83 discord** communities 🌍  
 
 Guilda is **not just a bot**, it’s a way to **reimagine how communities connect**. Whether it’s advanced moderation, engaging user experiences, or seamless integrations, we’re here to revolutionize Discord servers.
 
@@ -15,7 +15,7 @@ Guilda is **not just a bot**, it’s a way to **reimagine how communities connec
 The open source community fuels 🔥 our innovation at Guilda. Here’s what we’ve been up to:  
 - Supporting **29 open source projects** through contributions  
 - Engaging with over **50 developers** in our ecosystem  
-- Hosting **bi-weekly hackathons** to bring fresh ideas to life 💡  
+- Hosting **bi-quarterly botbattles** to bring fresh ideas to Guilda 💡  
 
 Are you part of the open source movement? If not, **we’ll help you get started**! Open source is powered by developers like you. [Learn how to contribute](https://opensource.guide/). 
 
