@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![An artistic representation of Guilda’s collaborative and creative environment, connecting communities worldwide.](https://i.imgur.com/zpRlwy2.png)
+![An artistic representation of Guilda’s collaborative and creative environment, connecting communities worldwide.](https://i.imgur.com/ZxUlaJh.png)
 
 We are building **Guilda**, the next-generation bot for **Discord**. Our journey began in **January 2025**, and since then, we’ve been on a roll:  
 - **873 commits** made  
